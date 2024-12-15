@@ -1,0 +1,6 @@
+@AspDotNetCore.ElasticSearch.Kibana_HostAddress = http://localhost:5156
+
+GET {{AspDotNetCore.ElasticSearch.Kibana_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
